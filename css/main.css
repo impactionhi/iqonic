@@ -320,9 +320,7 @@ a{
 
 @media screen and (max-width: 634px) {
   .fingerprint{
-    max-width:20%;
-    float:left;
-    max-height:100px;
+    display:none;
   
   }
 
