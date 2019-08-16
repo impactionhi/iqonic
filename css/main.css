@@ -330,6 +330,15 @@ max-width:inherit;
   .text{
     clear:both;
   }
+.container{
+  margin-top:15px;
+}
+.subline{
+ 
+  font-size:28px;
+  margin-top:0;
+  line-height:1.2;
+}
 
 }
 
