@@ -278,8 +278,9 @@ font-size: 60px;
 }
 
 body{
-  font-family: 'PT Serif', serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size:18px;
+  color: rgba(0,0,0,0.7)
 }
 
 
