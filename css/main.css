@@ -271,11 +271,13 @@ font-weight: 600;
 font-style: normal;
 font-size: 80px;
 color:black;
+margin-bottom:10px;
 }
 
 .subline{
   font-family: 'PT Serif', serif;
   font-size:32px;
+  margin-top:0;
 }
 
 body{
