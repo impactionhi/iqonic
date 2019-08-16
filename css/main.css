@@ -285,3 +285,8 @@ font-size: 46px;
 
 }
 
+img{
+  width:100%;
+  max-width:100%;
+}
+
