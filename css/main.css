@@ -297,7 +297,7 @@ body{
 }
 
 .fingerprint{
-  width:45%;
+  max-width:45%;
   float:left;
   max-height:100px;
 
@@ -310,7 +310,8 @@ img{
 
 .text{
   float:left;
-  width:45%;
+  max-width:45%;
+  min-width:300px;
 }
 
 a{
