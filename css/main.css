@@ -296,6 +296,7 @@ body{
 .fingerprint{
   width:45%;
   float:left;
+  max-height:100px;
 
 }
 
