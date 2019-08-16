@@ -318,7 +318,7 @@ a{
   color: rgba(0,0,0,0.6);
 }
 
-@media screen and (max-width: 622px) {
+@media screen and (max-width: 634px) {
   .fingerprint{
     max-width:20%;
     float:left;
