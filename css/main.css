@@ -277,6 +277,11 @@ font-size: 60px;
   font-size:32px;
 }
 
+body{
+  font-family: 'PT Serif', serif;
+  font-size:18px;
+}
+
 
 .container{
   margin-top: 60px;
