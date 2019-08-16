@@ -318,3 +318,13 @@ a{
   color: rgba(0,0,0,0.6);
 }
 
+@media screen and (max-width: 450px) {
+  .fingerprint{
+    max-width:20%;
+    float:left;
+    max-height:100px;
+  
+  }
+
+}
+
