@@ -321,8 +321,8 @@ a{
 @media screen and (max-width: 634px) {
   .fingerprint{
 clear:both;
-width:140px;
-height:180px;
+width:120px;
+height:150px;
 max-height:180px;
 max-width:inherit;
   }
