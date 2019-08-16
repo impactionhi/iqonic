@@ -281,12 +281,18 @@ font-size: 46px;
 }
 
 .fingerprint{
-  width:50%;
+  width:45%;
+  float:left;
 
 }
 
 img{
   width:100%;
   max-width:100%;
+}
+
+.text{
+  float:left;
+  width:45%;
 }
 
